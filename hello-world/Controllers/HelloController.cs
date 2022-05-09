@@ -14,9 +14,8 @@ namespace hello_world.Controllers
 
         public ActionResult Test()
         {
-            return Ok("Test CI/CD");
+            return Ok("Test CI/CD!!!!");
         }
     }
-
 
 }
